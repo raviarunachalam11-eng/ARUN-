@@ -1,0 +1,14 @@
+{
+  "appId": "com.arunachalam.studyapp",
+  "appName": "ARUNACHALAM STUDY ANALYSE",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
+
